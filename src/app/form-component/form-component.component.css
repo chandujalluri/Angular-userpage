@@ -1,0 +1,19 @@
+div{
+    text-align: center;
+}
+label{
+    text-align: left;
+}
+.alert-danger{
+    background-color: red;
+}
+
+.alert{
+    color: white;
+    margin-bottom: 10px;
+    text-align: center;
+}
+button{
+    background-color: black;
+    color: aqua;
+}
